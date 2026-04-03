@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-[🔗 View Live Application](https://your-deployed-link-here.com)
+[🔗 View Live Application](https://zorvyn-bay.vercel.app/)
 
 A modern, responsive financial dashboard built using React that helps users track transactions, analyze spending patterns, and gain meaningful financial insights through interactive visualizations.
 
